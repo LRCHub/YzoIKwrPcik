@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "神罰を辿り狂骨に至る",
+  "base_artist": "Imperial Circus Dead Decadence",
+  "createdAt": "2025-12-12T12:03:10.810647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "神罰を辿り狂骨に至る",
+      "artist": "Imperial Circus Dead Decadence",
+      "has_synced": false,
+      "path": "select/01_神罰を辿り狂骨に至る_Imperial_Circus_Dead_Decadence.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "神罰を辿り狂骨に至る",
+      "artist": "Imperial Circus Dead Decadence",
+      "has_synced": false,
+      "path": "select/02_神罰を辿り狂骨に至る_Imperial_Circus_Dead_Decadence.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神罰を辿り狂骨に至る",
+      "artist": "Imperial Circus Dead Decadence",
+      "has_synced": false,
+      "path": "select/pl_01_神罰を辿り狂骨に至る_Imperial_Circus_Dead_Decadence.txt"
+    }
+  ]
+}
